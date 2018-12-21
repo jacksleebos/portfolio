@@ -1,0 +1,37 @@
+body {
+ background-image: url("vlag.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family: "lato", san-serif;
+}
+
+h1 {
+ color: white; background-color: rgb(227,29,26);
+}
+
+p {
+ opacity: 0.8;
+ font-size: x-large;
+ text-align: center;
+}
+
+#first {
+    
+  border: 2px dotted black;
+
+  padding: 15px;
+
+  background: rgb(208,182,165);
+
+  background-clip: padding-box;
+}
+
+#inputfield {
+margin-left: 50px;
+}
+textarea {
+  margin-left: 50px;
+}
+#submitbutton {
+margin-left: 100px;
+}
